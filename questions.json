@@ -1,0 +1,21 @@
+{
+    "questions": [
+      {
+        "question": "paras turtles?",
+        "answers": ["donatello", "michelancelo", "raphaello", "leonardo"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "coolein nokkamies?",
+        "answers": ["axl rose", "martti syrjä", "bruce dickinson", "David lee roth"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "question": "paras patukka?",
+        "answers": ["raider", "pätkis", "tupla", "Mars"],
+        "correctAnswerIndex": 3
+      }
+
+      
+    ]
+  }
